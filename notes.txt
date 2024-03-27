@@ -1,0 +1,14 @@
+Developers have two choices:
+-  build everything themselves 
+-  use web application framework 
+-  by using framework, dev teams can better focus on unique features, instead spending time developing features common to all applications 
+-  Django os good for projects that require high volumes of text, media files and heavy traffic 
+
+Advantages of django
+- Deployment of machine learning algorithms 
+- Ease of scalability (fast and efficient traffic management for users 
+- Popular for cloud storage applications because asychronous views 
+- Good fault tolerance 
+- Ease of adaptation, robustness, supportive open-source community, comprehensive documentation 
+
+Keypoints: Build as many applications as much as possible to develop your code muscles and experience
